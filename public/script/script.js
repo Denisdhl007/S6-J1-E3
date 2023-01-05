@@ -78,6 +78,6 @@ let pers4 = {
   changerAge(){
     pers4.age = prompt("Changer l'age du pers4");
     alert(`${pers4.prenom} a ${pers4.age}ans`)
-}
+  }
 }
 console.log(pers4.changerAge());
